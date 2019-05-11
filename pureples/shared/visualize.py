@@ -1,6 +1,6 @@
 import graphviz 
 import matplotlib.pyplot as plt
-import cPickle as pickle
+import pickle
 
 
 # Draw neural network with arbitrary topology.
